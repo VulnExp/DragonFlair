@@ -2,7 +2,7 @@ DragonFlair is a penetration testing tool. It has many tools to help you such as
 
 𝙍𝙚𝙦𝙪𝙞𝙧𝙚𝙢𝙚𝙣𝙩𝙨
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 𝙐𝙨𝙚𝙙
 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣:
