@@ -7,7 +7,7 @@ pip install -r requirements.txt
 𝙐𝙨𝙚𝙙
 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣:
 
->>> DragonFlair.py
+DragonFlair.py
 
 𝙞𝙣 𝘽𝙖𝙨𝙝:
 
